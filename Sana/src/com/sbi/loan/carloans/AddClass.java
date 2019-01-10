@@ -7,7 +7,6 @@ public class AddClass {
 		System.out.println("Sana Rakesh Reddy");
 		System.out.println("Software");
 
-		
 	}
 
 }
